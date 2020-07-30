@@ -1,4 +1,4 @@
-# Project Title
+# react-tailwind-starter
 
 React Tailwindcss Starter Pack
 
