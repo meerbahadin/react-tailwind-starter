@@ -1,6 +1,6 @@
 # react-tailwind-starter
 
-React Tailwindcss Starter Pack
+React Tailwindcss Starter template
 
 ## About Tailwind
 
